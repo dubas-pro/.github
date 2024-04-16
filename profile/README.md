@@ -6,7 +6,7 @@ If you are looking for a ready-to-use solution for your EspoCRM, check out our [
 
 ## Book a free consultation :calendar:
 
-If you are looking for a custom solution, we offer a free consultation. During the meeting, we will discuss your needs and prepare a custom offer for you. You can book a free consultation [here](https://book.dubascompany.com/team/dubas/initial).
+If you are looking for a custom solution, we offer a free consultation. During the meeting, we will discuss your needs and prepare a custom offer for you. You can book a free consultation [here](https://book.dubas.pro/team/dubas/initial).
 
 ## Open-Source :rainbow:
 
